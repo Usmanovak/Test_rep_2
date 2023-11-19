@@ -1,2 +1,2 @@
 # Seminar_1_git
-# Helli Git
+# Hello Git
